@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a MERN-Stack Developer
+- 🏢 I'm a Front-End Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to web development.
 
@@ -27,8 +27,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![tailwindCss](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.Js](https://img.shields.io/badge/-nodeJs-05122A?style=flat&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
